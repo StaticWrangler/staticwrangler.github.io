@@ -1,0 +1,16 @@
+# Publish only this reviewed marketing site.
+*
+!.gitignore
+!.nojekyll
+!README.md
+!index.html
+!404.html
+!styles.css
+!assets/
+!assets/staticwrangler.jpg
+!assets/guide-game-day.jpg
+!assets/guide-everyday.jpg
+!assets/guide-game-details.jpg
+!assets/fonts/
+!assets/fonts/manrope-variable.ttf
+!assets/fonts/OFL-Manrope.txt
