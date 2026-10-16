@@ -2,6 +2,7 @@
 *
 !.gitignore
 !.nojekyll
+!CNAME
 !README.md
 !index.html
 !404.html
